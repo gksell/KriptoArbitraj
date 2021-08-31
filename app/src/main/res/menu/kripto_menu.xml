@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/kripto_login"
+        android:title="Giriş"
+        ></item>
+    <item android:id="@+id/kripto_arbitraj"
+        android:title="Arbitraj"
+        ></item>
+    <item android:id="@+id/kripto_liquadation"
+        android:title="Borsa Likidasyonları"
+        ></item>
+    <item android:id="@+id/kripto_whale_alert"
+        android:title="Whale Alert"
+        ></item>
+    <item android:id="@+id/kripto_average"
+        android:title="Ortalama Hesaplama"
+        ></item>
+    <item android:id="@+id/kripto_guide"
+        android:title="Arbitraj Nedir?"
+        ></item>
+
+
+</menu>
