@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class ArbitrajActivity extends AppCompatActivity {
+    // Merhabalarrrr 12.37
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
